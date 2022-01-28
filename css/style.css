@@ -33,10 +33,6 @@ nav a {
   text-decoration: none;
 }
 
-nav a:hover {
-  border-bottom: 3px solid #fff;
-}
-
 
 header .fa-hand-sparkles {
   color: orange;
